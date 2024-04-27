@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net8.0\Week13SQLiteDB.exe
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net8.0\Week13SQLiteDB.deps.json
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net8.0\Week13SQLiteDB.runtimeconfig.json
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net8.0\Week13SQLiteDB.dll
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\bin\Debug\net8.0\Week13SQLiteDB.pdb
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\Week13SQLiteDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\Week13SQLiteDB.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\Week13SQLiteDB.AssemblyInfo.cs
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\Week13SQLiteDB.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\Week13SQLiteDB.sourcelink.json
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\Week13SQLiteDB.dll
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\refint\Week13SQLiteDB.dll
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\Week13SQLiteDB.pdb
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\Week13SQLiteDB.genruntimeconfig.cache
+C:\Users\andre\source\repos\Week13SQLiteDB\Week13SQLiteDB\obj\Debug\net8.0\ref\Week13SQLiteDB.dll
